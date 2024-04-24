@@ -1,0 +1,17 @@
+name: football_analysis
+channels:
+  - default
+  - conda-forge
+dependencies:
+  - pip
+  - python=3.8
+  - jupyter
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - black
+  - pip:
+    - supervision
+    - ultralytics=8.0.196
+    - opencv
