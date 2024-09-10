@@ -167,3 +167,4 @@ notebooks/yolov8x.pt
 notebooks/runs
 notebooks/football-players-detection-1
 notebooks/football-players-detection-12
+model/best.pt
